@@ -6,7 +6,7 @@
 <body>
 <?php
      $x=1232;
-     echo "$x";
+     var_dump($x);
  ?>
 </body>
 </html>
