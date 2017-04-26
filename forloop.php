@@ -7,7 +7,7 @@
 <?php
 for ($x=0; $x <10 ; $x++) { 
 	# code...
-	echo "the valu is: $x  <br>";
+	echo "the value is: $x  <br>";
 }
 
 ?>
