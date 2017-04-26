@@ -1,4 +1,4 @@
-<DOCTYPE html>
+<!DOCTYPE html>
 	<html>
 	<head>
 		<title>php</title>
@@ -13,3 +13,4 @@
 			mytest();
 		?>
 	</body>
+	</html>
