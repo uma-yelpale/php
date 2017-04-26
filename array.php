@@ -9,3 +9,4 @@
 		var_dump($car);
 		?>
 	</body>
+	</html>
