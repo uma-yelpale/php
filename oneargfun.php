@@ -8,10 +8,10 @@
      function mytest($name)
      {
      	# code...
-     	echo "uma $name";
+     	echo "$name patil <br>";
      }
-     mytest("patil");
-
+     mytest("uma");
+     mytest("urmila");
     ?>
 </body>
 </html>
