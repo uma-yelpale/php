@@ -11,7 +11,8 @@
      	echo "uma $name is $age year old";
      }
      mytest("patil","25");
-
+     mytest("patil","24");
+     mytest("patil","23");
     ?>
 </body>
 </html>
